@@ -14,6 +14,7 @@ public class gamble {
                 } else {
                     System.out.println(RNG + " is smaller than 0.5");
                 }
+                break;
             }
             case 2: {
                 int Rolls = 0;
